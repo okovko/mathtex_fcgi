@@ -1,0 +1,1 @@
+this is a quick and dirty port of Forkosh's mathtex to work with FCGI using spawn-fcgi or apache or lightppd.
